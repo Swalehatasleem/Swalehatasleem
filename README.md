@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Swaleha Tasleem
+- 👀 I’m interested in Data Analyst and Data Science role.
+- 🌱 I’m currently learning SQL, Python, Power Bi.
+- 💞️ I'm an ex-Amazonian with experience as an ML Data Associate.
+- 📫You can reach me via email: swaleha0492@gmail.com
